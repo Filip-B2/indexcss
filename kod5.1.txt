@@ -1,0 +1,35 @@
+
+kod html
+<html>
+
+<head>
+</head>
+
+<body>
+    <td width=18% align=center>
+        <font>
+            <html>
+
+            <head>
+                <title>styl zewnetrzne</title>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                <style>
+                    @import url(" zadanie 5.1 css.html ");
+                </style>
+            </head>
+
+            <body bgcolor="silver">
+                <p> Importowany arkusz</p>
+            </body>
+
+            </html>
+        </font>
+    </td>
+</body>
+
+</html>
+kod css
+p {
+color: #FF0000;
+font-size: 62px;
+}
