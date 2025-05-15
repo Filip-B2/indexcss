@@ -1,0 +1,43 @@
+CSS:
+p#pogrubienie_Bigus{
+    font-size:30;
+	color:#DB9F79;
+}
+p#pochylona_Bigus{
+    font-size:35;
+	color:#E7ED515;
+}
+p#index_gorny_Bigus{
+    font-size:1cm;
+    color:#F8EFD9;
+}
+p#index_dolny_Bigus{
+    font-size:1,5cm;
+    color: rgb(25%,95%,90%);
+}
+p#mono_Bigus{
+    font-size:40px;
+    color:#2197645;
+}
+p#powiekszenie_Bigus{
+    color: #8EDED7;
+}
+p#pomniejszenie_Bigus{
+    color: rgb(76%, 64%, 23%);
+}
+HTML:
+<html>
+<head>
+<link href="Bigus_zadanie23.css" rel="stylesheet">
+</head>
+<body>
+<p id="pogrubienie_Bigus">Filip Bigus<br> Dowcip 1 <br>Co robi informatyk budząc się na kacu? Testuje pamięć.
+<p id="pochylenie_Bigus">Filip Bigus<br> Dowcip 2 <br>Jest impreza u informatyków, wódka leje się szerokimi pasmami. Dwóch hackerów pije bruderszafta. - To co? Mówmy sobie po IP
+<p id="index_gorny_Bigus">Filip Bigus<br> Dowcip 3 <br>Co mówi informatyk, kiedy dostanie na urodziny pendrive? Dzięki za pamięć.
+<p id="index_dolny_Bigus">Filip Bigus<br> Dowcip 4 <br>Skąd informatyk bierze wodę? Z eKranu
+<p id="mono_Bigus">Filip Bigus<br> Dowcip 5 <br>Co mówi ksiądz na ślubie informatyka? - Pobieranie zakończone
+<p id="powiekszenie_Bigus">Filip Bigus<br> Dowcip 6 <br>Co pisze na grobie maniaka komputetowego? - GAME OVER
+<p id="pomniejszenie_Bigus">Filip Bigus<br> Dowcip 7 <br>Jak informatyk wywiesza pranie? - Na linkach
+</body>
+</html>
+<!--Filip Bigus -->
